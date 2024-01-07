@@ -56,6 +56,7 @@ This is my DevOps learning plan for the year 2024, it consists of both paid cour
 
 - SRE
   - [Site Reliability Engineering: How Google Runs Production Systems](https://sre.google/sre-book/table-of-contents/)
+  - [SRE Books](https://sre.google/books/)
   - [Become a Rockstar SRE](https://www.packtpub.com/product/becoming-a-rockstar-sre/9781803239224#:~:text=With%20a%20focus%20on%20reliability,how%20of%20site%20reliability%20engineering.)
 
 
